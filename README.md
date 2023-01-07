@@ -13,5 +13,6 @@ options:
                         Piece's height
 
 ```
+> You can find out the height and width of the part in the photo with a tool like gimpp.
 
 > The script used in the [stmctf22](https://github.com/stmctf/stmctf22) competition was arranged and adapted to all pictures.
