@@ -14,4 +14,4 @@ options:
 
 ```
 
-The script used in the [stmctf22](https://github.com/stmctf/stmctf22) competition was arranged and adapted to all pictures.
+> The script used in the [stmctf22](https://github.com/stmctf/stmctf22) competition was arranged and adapted to all pictures.
